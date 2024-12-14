@@ -1,0 +1,64 @@
+// Helper function to compute letter frequencies in English
+var letterFrequencies = {
+  'a': 0.082, 'b': 0.015, 'c': 0.028, 'd': 0.043, 'e': 0.127,
+  'f': 0.022, 'g': 0.020, 'h': 0.061, 'i': 0.070, 'j': 0.002,
+  'k': 0.008, 'l': 0.040, 'm': 0.024, 'n': 0.067, 'o': 0.075,
+  'p': 0.019, 'q': 0.001, 'r': 0.060, 's': 0.063, 't': 0.091,
+  'u': 0.028, 'v': 0.010, 'w': 0.024, 'x': 0.002, 'y': 0.020,
+  'z': 0.001
+}
+
+// Basic model
+var simpleModel = function() {
+  // Just try to learn weights between frequency and random
+  var useFrequency = flip(0.5)
+  
+  mapData({data: data}, function(game) {
+    var availableLetters = filter(
+      function(l) { return !game.previousGuesses.includes(l) },
+      Object.keys(letterFrequencies)
+    )
+    
+    // Choose distribution based on strategy
+    if (useFrequency) {
+      // Use letter frequencies
+      var freqSum = sum(map(function(l) { 
+        return letterFrequencies[l]
+      }, availableLetters))
+      
+      var probs = map(function(l) { 
+        return letterFrequencies[l] / freqSum
+      }, availableLetters)
+      
+      observe(Categorical({vs: availableLetters, ps: probs}), game.actualGuess)
+    } else {
+      // Use random guessing
+      observe(
+        Categorical({
+          vs: availableLetters, 
+          ps: repeat(availableLetters.length, function() { 
+            return 1/availableLetters.length 
+          })
+        }),
+        game.actualGuess
+      )
+    }
+  })
+  
+  return useFrequency
+}
+
+var data = [{
+  pattern: "h_ll_",
+  previousGuesses: ['h', 'l'],
+  actualGuess: 'e'
+}]
+
+var posterior = Infer({
+  method: 'MCMC',
+  samples: 1000,
+  model: simpleModel
+})
+
+print("Probability of using frequency strategy: " + 
+      expectation(posterior, function(x) { return x ? 1 : 0 }))
