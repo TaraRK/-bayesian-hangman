@@ -190,6 +190,9 @@ var simpleModel = function() {
 };
 
 
+var partial = ["s", "p", "_", "t", "_", "_", "_", "_", "t"]
+var in_letters = ["s", "p","t"]
+var not_in_letters = ["e", "a", "r"]
 var partial = [
     '_', 'o', 'n',
     'd', 'e', 'r',
@@ -199,14 +202,14 @@ var in_letters = ["o", "e", "n", "d", "r", "f", "u", "l"]
 var not_in_letters = ["i"]
 var previousGuesses = in_letters.concat(not_in_letters)
 
-// var data = [
-//   {
-//     previousGuesses: previousGuesses,
-//     actualGuess: "l",
-//     partialWordPattern: partial,
-//     word: "wonderful"
-//   },
-// ]
+var data = [
+  {
+    previousGuesses: previousGuesses,
+    actualGuess: "o",
+    partialWordPattern: partial,
+    word: "spotlight"
+  },
+]
 
 // import data from 'data.js'
 var data = json.read('data.js');
