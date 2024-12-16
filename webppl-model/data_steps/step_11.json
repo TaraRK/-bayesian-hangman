@@ -1,0 +1,162 @@
+[
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "r",
+      "c",
+      "t",
+      "i",
+      "o",
+      "s"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "c",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "r"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "o",
+      "i",
+      "n",
+      "s",
+      "e",
+      "l",
+      "r",
+      "y"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "s",
+      "t",
+      "o",
+      "_",
+      "i",
+      "a",
+      "n"
+    ],
+    "word": "custodian"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "o",
+      "i",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "g",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "o",
+      "t",
+      "l",
+      "i",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "s",
+      "w",
+      "a",
+      "o",
+      "t",
+      "n",
+      "l",
+      "b"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "w",
+      "_",
+      "i",
+      "s",
+      "_",
+      "e",
+      "_",
+      "s"
+    ],
+    "word": "whispers"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "l",
+      "d",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "d",
+      "e",
+      "r",
+      "_",
+      "u",
+      "l"
+    ],
+    "word": "wonderful"
+  }
+]

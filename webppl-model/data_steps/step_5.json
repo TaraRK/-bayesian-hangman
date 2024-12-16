@@ -1,0 +1,208 @@
+[
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "t"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "_",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "o",
+      "e"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "t",
+      "o",
+      "_",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "custodian"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "s"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "l",
+      "p"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "e",
+      "l",
+      "e",
+      "p",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "n",
+      "l"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "e",
+      "l",
+      "l",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "e",
+      "a",
+      "r"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "s",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "r",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "r",
+      "e",
+      "_",
+      "_",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "d"
+    ],
+    "actualGuess": "b",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "a",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "a",
+      "o"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "whispers"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "t",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  }
+]

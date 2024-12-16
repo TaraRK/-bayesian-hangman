@@ -1,0 +1,32 @@
+[
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "u",
+      "c",
+      "t",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "u",
+      "c",
+      "a",
+      "t",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  }
+]

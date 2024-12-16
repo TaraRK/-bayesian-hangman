@@ -1,0 +1,141 @@
+[
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "o",
+      "i",
+      "n",
+      "s",
+      "u",
+      "e",
+      "l",
+      "r",
+      "y"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "u",
+      "s",
+      "t",
+      "o",
+      "_",
+      "i",
+      "a",
+      "n"
+    ],
+    "word": "custodian"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "u",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "u",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "o",
+      "i",
+      "g",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "o",
+      "t",
+      "l",
+      "i",
+      "g",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "s",
+      "w",
+      "h",
+      "a",
+      "o",
+      "t",
+      "n",
+      "l",
+      "b"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "w",
+      "h",
+      "i",
+      "s",
+      "_",
+      "e",
+      "_",
+      "s"
+    ],
+    "word": "whispers"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "l",
+      "d",
+      "f",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "w",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "d",
+      "e",
+      "r",
+      "f",
+      "u",
+      "l"
+    ],
+    "word": "wonderful"
+  }
+]

@@ -1,3 +1,4 @@
+const { NONAME } = require('dns');
 const fs = require('fs');
 
 var exampleJavascriptFn = function(x) {
@@ -34,9 +35,9 @@ function match(pattern, word) {
     return true;
 }
 
-function get_possible_word(pattern) {
+function get_possible_word(pattern, threshold) {
     return dictionary.filter(function(w) {
-        return match(pattern, w);
+        return match(pattern, w) && (word_freq[w] || 0) > threshold;
     });
 }
 
@@ -101,7 +102,9 @@ function letter_inference(pattern, use_word_frequency) {
         use_word_frequency = false;
     }
 
-    var possible = get_possible_word(pattern);
+    var threshold = use_word_frequency ? 0.0 : 1e-6;
+
+    var possible = get_possible_word(pattern, threshold);
     var likelihoods = get_likelyhoods(pattern, possible, use_word_frequency);
     
     var guessed_letters = pattern.in.concat(pattern.not_in);

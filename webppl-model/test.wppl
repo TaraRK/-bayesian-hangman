@@ -118,7 +118,7 @@ var simpleModel = function() {
 
 
   mapData({data: data}, function(game) {
-    console.log(game.word);
+    // console.log(game.word);
 
     var modelChoice = sample(Categorical({ps: modelProbs, vs: [1, 2, 3, 4]}));
     // modelChoice = sample(Categorical({ps: [0.25, 0.25, 0.25, 0.25], vs: [1, 2, 3, 4]}));
@@ -212,7 +212,7 @@ var data = [
 ]
 
 // import data from 'data.js'
-var data = json.read('data.js');
+var data = json.read('data_steps/step_12.json');
 
 
 var x = webpplPackageTemplate.letter_inference({ partial: partial, in: in_letters, not_in: not_in_letters }, false)
@@ -220,7 +220,7 @@ var x = webpplPackageTemplate.letter_inference({ partial: partial, in: in_letter
 
 var posterior = Infer({
   method: 'MCMC',
-  samples: 1000,
+  samples: 10000,
   model: simpleModel
 })
 
@@ -230,10 +230,7 @@ var probModel2 = expectation(posterior, function(x) { return x[1]; });
 var probModel3 = expectation(posterior, function(x) { return x[2]; });
 var probModel4 = expectation(posterior, function(x) { return x[3]; });
 
-var bla = {
-  random_guess_model: probModel1,
-  letter_freq_model: probModel2,
-  dict_model: probModel3, 
-  bayesian_model: probModel4, 
-}
-bla
+
+json.write('posterior.json', {
+  posteriorSamples: posterior.samples, // Write all posterior samples
+});

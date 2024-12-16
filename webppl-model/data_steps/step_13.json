@@ -1,0 +1,88 @@
+[
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "o",
+      "i",
+      "n",
+      "s",
+      "u",
+      "d",
+      "e",
+      "l",
+      "r",
+      "y"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "_",
+      "u",
+      "s",
+      "t",
+      "o",
+      "d",
+      "i",
+      "a",
+      "n"
+    ],
+    "word": "custodian"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "u",
+      "c",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "u",
+      "c",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "s",
+      "w",
+      "h",
+      "p",
+      "a",
+      "o",
+      "t",
+      "n",
+      "l",
+      "b"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "w",
+      "h",
+      "i",
+      "s",
+      "p",
+      "e",
+      "_",
+      "s"
+    ],
+    "word": "whispers"
+  }
+]

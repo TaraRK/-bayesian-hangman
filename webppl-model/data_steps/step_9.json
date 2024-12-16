@@ -1,0 +1,150 @@
+[
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "t",
+      "i",
+      "o",
+      "s"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "o",
+      "i",
+      "n",
+      "e",
+      "l",
+      "r"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "t",
+      "o",
+      "_",
+      "i",
+      "a",
+      "n"
+    ],
+    "word": "custodian"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "s",
+      "x",
+      "m",
+      "r"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "_",
+      "t",
+      "l",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "s",
+      "a",
+      "o",
+      "t",
+      "n",
+      "l"
+    ],
+    "actualGuess": "b",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "i",
+      "s",
+      "_",
+      "e",
+      "_",
+      "s"
+    ],
+    "word": "whispers"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "_",
+      "e",
+      "r",
+      "_",
+      "u",
+      "_"
+    ],
+    "word": "wonderful"
+  }
+]
