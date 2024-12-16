@@ -1,9 +1,24 @@
 [
   {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
     "previousGuesses": [
       "e"
     ],
-    "actualGuess": "e",
+    "actualGuess": "t",
     "partialWordPattern": [
       "_",
       "_",
@@ -21,7 +36,7 @@
       "e",
       "t"
     ],
-    "actualGuess": "t",
+    "actualGuess": "a",
     "partialWordPattern": [
       "_",
       "_",
@@ -40,7 +55,7 @@
       "a",
       "t"
     ],
-    "actualGuess": "a",
+    "actualGuess": "l",
     "partialWordPattern": [
       "_",
       "a",
@@ -60,7 +75,7 @@
       "l",
       "t"
     ],
-    "actualGuess": "l",
+    "actualGuess": "n",
     "partialWordPattern": [
       "_",
       "a",
@@ -81,7 +96,7 @@
       "n",
       "t"
     ],
-    "actualGuess": "n",
+    "actualGuess": "i",
     "partialWordPattern": [
       "_",
       "a",
@@ -103,7 +118,7 @@
       "t",
       "i"
     ],
-    "actualGuess": "i",
+    "actualGuess": "o",
     "partialWordPattern": [
       "_",
       "a",
@@ -126,30 +141,6 @@
       "i",
       "o"
     ],
-    "actualGuess": "o",
-    "partialWordPattern": [
-      "_",
-      "a",
-      "l",
-      "e",
-      "n",
-      "_",
-      "a",
-      "_"
-    ],
-    "word": "calendar"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "a",
-      "l",
-      "n",
-      "t",
-      "i",
-      "o",
-      "s"
-    ],
     "actualGuess": "s",
     "partialWordPattern": [
       "_",
@@ -169,7 +160,6 @@
       "a",
       "l",
       "n",
-      "r",
       "t",
       "i",
       "o",
@@ -184,7 +174,7 @@
       "n",
       "_",
       "a",
-      "r"
+      "_"
     ],
     "word": "calendar"
   },
@@ -195,7 +185,6 @@
       "l",
       "n",
       "r",
-      "c",
       "t",
       "i",
       "o",
@@ -203,7 +192,7 @@
     ],
     "actualGuess": "c",
     "partialWordPattern": [
-      "c",
+      "_",
       "a",
       "l",
       "e",
@@ -222,7 +211,6 @@
       "n",
       "r",
       "c",
-      "d",
       "t",
       "i",
       "o",
@@ -235,16 +223,14 @@
       "l",
       "e",
       "n",
-      "d",
+      "_",
       "a",
       "r"
     ],
     "word": "calendar"
   },
   {
-    "previousGuesses": [
-      "e"
-    ],
+    "previousGuesses": [],
     "actualGuess": "e",
     "partialWordPattern": [
       "_",
@@ -257,11 +243,10 @@
       "_",
       "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
-      "t",
       "e"
     ],
     "actualGuess": "t",
@@ -269,19 +254,18 @@
       "_",
       "_",
       "_",
-      "t",
+      "_",
       "_",
       "_",
       "_",
       "_",
       "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
       "t",
-      "a",
       "e"
     ],
     "actualGuess": "a",
@@ -293,16 +277,15 @@
       "_",
       "_",
       "_",
-      "a",
+      "_",
       "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
       "t",
       "a",
-      "o",
       "e"
     ],
     "actualGuess": "o",
@@ -311,20 +294,19 @@
       "_",
       "_",
       "t",
-      "o",
+      "_",
       "_",
       "_",
       "a",
       "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
       "t",
       "a",
       "o",
-      "i",
       "e"
     ],
     "actualGuess": "i",
@@ -335,11 +317,11 @@
       "t",
       "o",
       "_",
-      "i",
+      "_",
       "a",
       "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -347,8 +329,7 @@
       "a",
       "o",
       "i",
-      "e",
-      "l"
+      "e"
     ],
     "actualGuess": "l",
     "partialWordPattern": [
@@ -362,7 +343,7 @@
       "a",
       "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -370,7 +351,6 @@
       "a",
       "o",
       "i",
-      "n",
       "e",
       "l"
     ],
@@ -384,9 +364,9 @@
       "_",
       "i",
       "a",
-      "n"
+      "_"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -396,8 +376,7 @@
       "i",
       "n",
       "e",
-      "l",
-      "r"
+      "l"
     ],
     "actualGuess": "r",
     "partialWordPattern": [
@@ -411,7 +390,32 @@
       "a",
       "n"
     ],
-    "word": "Custodian"
+    "word": "custodian"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "o",
+      "i",
+      "n",
+      "e",
+      "l",
+      "r"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "t",
+      "o",
+      "_",
+      "i",
+      "a",
+      "n"
+    ],
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -424,33 +428,6 @@
       "e",
       "l",
       "r"
-    ],
-    "actualGuess": "s",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "s",
-      "t",
-      "o",
-      "_",
-      "i",
-      "a",
-      "n"
-    ],
-    "word": "Custodian"
-  },
-  {
-    "previousGuesses": [
-      "t",
-      "a",
-      "o",
-      "i",
-      "n",
-      "s",
-      "e",
-      "l",
-      "r",
-      "y"
     ],
     "actualGuess": "y",
     "partialWordPattern": [
@@ -464,7 +441,7 @@
       "a",
       "n"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -474,7 +451,6 @@
       "i",
       "n",
       "s",
-      "u",
       "e",
       "l",
       "r",
@@ -483,7 +459,7 @@
     "actualGuess": "u",
     "partialWordPattern": [
       "_",
-      "u",
+      "_",
       "s",
       "t",
       "o",
@@ -492,7 +468,7 @@
       "a",
       "n"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -503,7 +479,6 @@
       "n",
       "s",
       "u",
-      "d",
       "e",
       "l",
       "r",
@@ -516,12 +491,12 @@
       "s",
       "t",
       "o",
-      "d",
+      "_",
       "i",
       "a",
       "n"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
     "previousGuesses": [
@@ -536,8 +511,7 @@
       "e",
       "l",
       "r",
-      "y",
-      "c"
+      "y"
     ],
     "actualGuess": "c",
     "partialWordPattern": [
@@ -551,12 +525,10 @@
       "a",
       "n"
     ],
-    "word": "Custodian"
+    "word": "custodian"
   },
   {
-    "previousGuesses": [
-      "e"
-    ],
+    "previousGuesses": [],
     "actualGuess": "e",
     "partialWordPattern": [
       "_",
@@ -569,16 +541,34 @@
       "_",
       "_"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
-      "o",
       "e"
     ],
     "actualGuess": "o",
     "partialWordPattern": [
+      "e",
       "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "e",
       "_",
       "_",
       "_",
@@ -588,38 +578,17 @@
       "o",
       "_"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
-      "o",
-      "n",
-      "e"
-    ],
-    "actualGuess": "n",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
+      "e",
       "o",
       "n"
-    ],
-    "word": "Education"
-  },
-  {
-    "previousGuesses": [
-      "o",
-      "n",
-      "e",
-      "s"
     ],
     "actualGuess": "s",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "_",
@@ -629,42 +598,40 @@
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
-      "a",
-      "e",
       "s"
     ],
     "actualGuess": "a",
     "partialWordPattern": [
+      "e",
       "_",
       "_",
       "_",
       "_",
-      "a",
       "_",
       "_",
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
-      "e",
-      "s",
-      "x"
+      "s"
     ],
     "actualGuess": "x",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "_",
@@ -674,21 +641,44 @@
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
+      "s",
+      "x"
+    ],
+    "actualGuess": "m",
+    "partialWordPattern": [
       "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
       "s",
       "x",
       "m"
     ],
-    "actualGuess": "m",
+    "actualGuess": "r",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "_",
@@ -698,48 +688,22 @@
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
-      "e",
       "s",
       "x",
       "m",
       "r"
     ],
-    "actualGuess": "r",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "_",
-      "_",
-      "a",
-      "_",
-      "_",
-      "o",
-      "n"
-    ],
-    "word": "Education"
-  },
-  {
-    "previousGuesses": [
-      "o",
-      "n",
-      "a",
-      "e",
-      "s",
-      "x",
-      "m",
-      "r",
-      "l"
-    ],
     "actualGuess": "l",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "_",
@@ -749,15 +713,14 @@
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
-      "d",
-      "e",
       "s",
       "x",
       "m",
@@ -766,8 +729,8 @@
     ],
     "actualGuess": "d",
     "partialWordPattern": [
+      "e",
       "_",
-      "d",
       "_",
       "_",
       "a",
@@ -776,16 +739,15 @@
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
       "d",
-      "u",
-      "e",
       "s",
       "x",
       "m",
@@ -794,9 +756,9 @@
     ],
     "actualGuess": "u",
     "partialWordPattern": [
-      "_",
+      "e",
       "d",
-      "u",
+      "_",
       "_",
       "a",
       "_",
@@ -804,17 +766,16 @@
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
       "d",
       "u",
-      "c",
-      "e",
       "s",
       "x",
       "m",
@@ -823,28 +784,27 @@
     ],
     "actualGuess": "c",
     "partialWordPattern": [
-      "_",
+      "e",
       "d",
       "u",
-      "c",
+      "_",
       "a",
       "_",
       "_",
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
       "d",
       "u",
       "c",
-      "t",
-      "e",
       "s",
       "x",
       "m",
@@ -853,20 +813,21 @@
     ],
     "actualGuess": "t",
     "partialWordPattern": [
-      "_",
+      "e",
       "d",
       "u",
       "c",
       "a",
-      "t",
+      "_",
       "_",
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
   },
   {
     "previousGuesses": [
+      "e",
       "o",
       "n",
       "a",
@@ -874,8 +835,6 @@
       "u",
       "c",
       "t",
-      "i",
-      "e",
       "s",
       "x",
       "m",
@@ -884,23 +843,38 @@
     ],
     "actualGuess": "i",
     "partialWordPattern": [
-      "_",
+      "e",
       "d",
       "u",
       "c",
       "a",
       "t",
-      "i",
+      "_",
       "o",
       "n"
     ],
-    "word": "Education"
+    "word": "education"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "elephant"
   },
   {
     "previousGuesses": [
       "e"
     ],
-    "actualGuess": "e",
+    "actualGuess": "t",
     "partialWordPattern": [
       "e",
       "_",
@@ -918,7 +892,7 @@
       "e",
       "t"
     ],
-    "actualGuess": "t",
+    "actualGuess": "l",
     "partialWordPattern": [
       "e",
       "_",
@@ -937,7 +911,7 @@
       "t",
       "l"
     ],
-    "actualGuess": "l",
+    "actualGuess": "p",
     "partialWordPattern": [
       "e",
       "l",
@@ -957,7 +931,7 @@
       "l",
       "p"
     ],
-    "actualGuess": "p",
+    "actualGuess": "h",
     "partialWordPattern": [
       "e",
       "l",
@@ -978,7 +952,7 @@
       "p",
       "h"
     ],
-    "actualGuess": "h",
+    "actualGuess": "a",
     "partialWordPattern": [
       "e",
       "l",
@@ -1000,29 +974,6 @@
       "h",
       "a"
     ],
-    "actualGuess": "a",
-    "partialWordPattern": [
-      "e",
-      "l",
-      "e",
-      "p",
-      "h",
-      "a",
-      "_",
-      "t"
-    ],
-    "word": "elephant"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "t",
-      "l",
-      "p",
-      "h",
-      "a",
-      "n"
-    ],
     "actualGuess": "n",
     "partialWordPattern": [
       "e",
@@ -1031,18 +982,34 @@
       "p",
       "h",
       "a",
-      "n",
+      "_",
       "t"
     ],
     "word": "elephant"
   },
   {
-    "previousGuesses": [
-      "e"
-    ],
+    "previousGuesses": [],
     "actualGuess": "e",
     "partialWordPattern": [
       "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "e",
       "_",
       "_",
       "e",
@@ -1052,16 +1019,16 @@
       "_",
       "_"
     ],
-    "word": "Excellent"
+    "word": "excellent"
   },
   {
     "previousGuesses": [
       "e",
       "t"
     ],
-    "actualGuess": "t",
+    "actualGuess": "n",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "e",
@@ -1071,7 +1038,7 @@
       "_",
       "t"
     ],
-    "word": "Excellent"
+    "word": "excellent"
   },
   {
     "previousGuesses": [
@@ -1079,9 +1046,9 @@
       "t",
       "n"
     ],
-    "actualGuess": "n",
+    "actualGuess": "l",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "e",
@@ -1091,7 +1058,7 @@
       "n",
       "t"
     ],
-    "word": "Excellent"
+    "word": "excellent"
   },
   {
     "previousGuesses": [
@@ -1100,9 +1067,9 @@
       "n",
       "l"
     ],
-    "actualGuess": "l",
+    "actualGuess": "c",
     "partialWordPattern": [
-      "_",
+      "e",
       "_",
       "_",
       "e",
@@ -1112,7 +1079,7 @@
       "n",
       "t"
     ],
-    "word": "Excellent"
+    "word": "excellent"
   },
   {
     "previousGuesses": [
@@ -1122,33 +1089,10 @@
       "l",
       "c"
     ],
-    "actualGuess": "c",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "c",
-      "e",
-      "l",
-      "l",
-      "e",
-      "n",
-      "t"
-    ],
-    "word": "Excellent"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "t",
-      "n",
-      "l",
-      "c",
-      "x"
-    ],
     "actualGuess": "x",
     "partialWordPattern": [
+      "e",
       "_",
-      "x",
       "c",
       "e",
       "l",
@@ -1157,201 +1101,10 @@
       "n",
       "t"
     ],
-    "word": "Excellent"
+    "word": "excellent"
   },
   {
-    "previousGuesses": [
-      "e"
-    ],
-    "actualGuess": "e",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "t"
-    ],
-    "actualGuess": "t",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "t",
-      "a"
-    ],
-    "actualGuess": "a",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "_",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "o",
-      "t",
-      "a"
-    ],
-    "actualGuess": "o",
-    "partialWordPattern": [
-      "_",
-      "o",
-      "o",
-      "_",
-      "_",
-      "_",
-      "_",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "o",
-      "i",
-      "t",
-      "a"
-    ],
-    "actualGuess": "i",
-    "partialWordPattern": [
-      "_",
-      "o",
-      "o",
-      "_",
-      "_",
-      "i",
-      "_",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "o",
-      "i",
-      "n",
-      "t",
-      "a"
-    ],
-    "actualGuess": "n",
-    "partialWordPattern": [
-      "_",
-      "o",
-      "o",
-      "n",
-      "_",
-      "i",
-      "_",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "o",
-      "i",
-      "n",
-      "s",
-      "t",
-      "a"
-    ],
-    "actualGuess": "s",
-    "partialWordPattern": [
-      "_",
-      "o",
-      "o",
-      "n",
-      "_",
-      "i",
-      "s",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "o",
-      "i",
-      "n",
-      "s",
-      "r",
-      "t",
-      "a"
-    ],
-    "actualGuess": "r",
-    "partialWordPattern": [
-      "_",
-      "o",
-      "o",
-      "n",
-      "r",
-      "i",
-      "s",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "o",
-      "i",
-      "n",
-      "s",
-      "r",
-      "m",
-      "t",
-      "a"
-    ],
-    "actualGuess": "m",
-    "partialWordPattern": [
-      "m",
-      "o",
-      "o",
-      "n",
-      "r",
-      "i",
-      "s",
-      "e"
-    ],
-    "word": "moonrise"
-  },
-  {
-    "previousGuesses": [
-      "e"
-    ],
+    "previousGuesses": [],
     "actualGuess": "e",
     "partialWordPattern": [
       "_",
@@ -1368,8 +1121,7 @@
   },
   {
     "previousGuesses": [
-      "e",
-      "a"
+      "e"
     ],
     "actualGuess": "a",
     "partialWordPattern": [
@@ -1388,8 +1140,7 @@
   {
     "previousGuesses": [
       "e",
-      "a",
-      "r"
+      "a"
     ],
     "actualGuess": "r",
     "partialWordPattern": [
@@ -1407,12 +1158,32 @@
   },
   {
     "previousGuesses": [
-      "s",
       "e",
       "a",
       "r"
     ],
     "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "e",
+      "a",
+      "r"
+    ],
+    "actualGuess": "t",
     "partialWordPattern": [
       "s",
       "_",
@@ -1433,29 +1204,6 @@
       "e",
       "a",
       "r"
-    ],
-    "actualGuess": "t",
-    "partialWordPattern": [
-      "s",
-      "_",
-      "_",
-      "t",
-      "_",
-      "_",
-      "_",
-      "_",
-      "t"
-    ],
-    "word": "spotlight"
-  },
-  {
-    "previousGuesses": [
-      "s",
-      "t",
-      "e",
-      "a",
-      "r",
-      "n"
     ],
     "actualGuess": "n",
     "partialWordPattern": [
@@ -1475,7 +1223,6 @@
     "previousGuesses": [
       "s",
       "t",
-      "p",
       "e",
       "a",
       "r",
@@ -1484,7 +1231,7 @@
     "actualGuess": "p",
     "partialWordPattern": [
       "s",
-      "p",
+      "_",
       "_",
       "t",
       "_",
@@ -1500,7 +1247,6 @@
       "s",
       "t",
       "p",
-      "l",
       "e",
       "a",
       "r",
@@ -1512,7 +1258,7 @@
       "p",
       "_",
       "t",
-      "l",
+      "_",
       "_",
       "_",
       "_",
@@ -1526,7 +1272,6 @@
       "t",
       "p",
       "l",
-      "o",
       "e",
       "a",
       "r",
@@ -1536,7 +1281,7 @@
     "partialWordPattern": [
       "s",
       "p",
-      "o",
+      "_",
       "t",
       "l",
       "_",
@@ -1553,7 +1298,6 @@
       "p",
       "l",
       "o",
-      "i",
       "e",
       "a",
       "r",
@@ -1566,7 +1310,7 @@
       "o",
       "t",
       "l",
-      "i",
+      "_",
       "_",
       "_",
       "t"
@@ -1581,7 +1325,6 @@
       "l",
       "o",
       "i",
-      "g",
       "e",
       "a",
       "r",
@@ -1595,7 +1338,7 @@
       "t",
       "l",
       "i",
-      "g",
+      "_",
       "_",
       "t"
     ],
@@ -1610,7 +1353,6 @@
       "o",
       "i",
       "g",
-      "h",
       "e",
       "a",
       "r",
@@ -1625,16 +1367,31 @@
       "l",
       "i",
       "g",
-      "h",
+      "_",
       "t"
     ],
     "word": "spotlight"
   },
   {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
     "previousGuesses": [
       "e"
     ],
-    "actualGuess": "e",
+    "actualGuess": "t",
     "partialWordPattern": [
       "_",
       "_",
@@ -1651,25 +1408,6 @@
     "previousGuesses": [
       "e",
       "t"
-    ],
-    "actualGuess": "t",
-    "partialWordPattern": [
-      "_",
-      "t",
-      "_",
-      "e",
-      "_",
-      "_",
-      "t",
-      "_"
-    ],
-    "word": "strength"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "t",
-      "a"
     ],
     "actualGuess": "a",
     "partialWordPattern": [
@@ -1688,14 +1426,13 @@
     "previousGuesses": [
       "e",
       "t",
-      "r",
       "a"
     ],
     "actualGuess": "r",
     "partialWordPattern": [
       "_",
       "t",
-      "r",
+      "_",
       "e",
       "_",
       "_",
@@ -1709,8 +1446,7 @@
       "e",
       "t",
       "r",
-      "a",
-      "i"
+      "a"
     ],
     "actualGuess": "i",
     "partialWordPattern": [
@@ -1730,11 +1466,32 @@
       "e",
       "t",
       "r",
-      "g",
       "a",
       "i"
     ],
     "actualGuess": "g",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "r",
+      "e",
+      "_",
+      "_",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "r",
+      "g",
+      "a",
+      "i"
+    ],
+    "actualGuess": "h",
     "partialWordPattern": [
       "_",
       "t",
@@ -1757,37 +1514,13 @@
       "a",
       "i"
     ],
-    "actualGuess": "h",
-    "partialWordPattern": [
-      "_",
-      "t",
-      "r",
-      "e",
-      "_",
-      "g",
-      "t",
-      "h"
-    ],
-    "word": "strength"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "t",
-      "r",
-      "g",
-      "h",
-      "n",
-      "a",
-      "i"
-    ],
     "actualGuess": "n",
     "partialWordPattern": [
       "_",
       "t",
       "r",
       "e",
-      "n",
+      "_",
       "g",
       "t",
       "h"
@@ -1795,27 +1528,24 @@
     "word": "strength"
   },
   {
-    "previousGuesses": [
-      "e"
-    ],
+    "previousGuesses": [],
     "actualGuess": "e",
     "partialWordPattern": [
       "_",
-      "e",
-      "_",
-      "e",
       "_",
       "_",
       "_",
       "_",
-      "e"
+      "_",
+      "_",
+      "_",
+      "_"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
-      "e",
-      "d"
+      "e"
     ],
     "actualGuess": "d",
     "partialWordPattern": [
@@ -1829,12 +1559,11 @@
       "_",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
       "e",
-      "a",
       "d"
     ],
     "actualGuess": "a",
@@ -1844,18 +1573,17 @@
       "_",
       "e",
       "_",
-      "a",
+      "_",
       "_",
       "_",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
       "e",
       "a",
-      "l",
       "d"
     ],
     "actualGuess": "l",
@@ -1867,17 +1595,16 @@
       "_",
       "a",
       "_",
-      "l",
+      "_",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
       "e",
       "a",
       "l",
-      "b",
       "d"
     ],
     "actualGuess": "b",
@@ -1888,11 +1615,11 @@
       "e",
       "_",
       "a",
-      "b",
+      "_",
       "l",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
@@ -1900,8 +1627,7 @@
       "a",
       "l",
       "b",
-      "d",
-      "n"
+      "d"
     ],
     "actualGuess": "n",
     "partialWordPattern": [
@@ -1915,7 +1641,7 @@
       "l",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
@@ -1923,7 +1649,6 @@
       "a",
       "l",
       "b",
-      "t",
       "d",
       "n"
     ],
@@ -1933,13 +1658,13 @@
       "e",
       "_",
       "e",
-      "t",
+      "_",
       "a",
       "b",
       "l",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
   },
   {
     "previousGuesses": [
@@ -1948,7 +1673,6 @@
       "l",
       "b",
       "t",
-      "g",
       "d",
       "n"
     ],
@@ -1956,7 +1680,7 @@
     "partialWordPattern": [
       "_",
       "e",
-      "g",
+      "_",
       "e",
       "t",
       "a",
@@ -1964,13 +1688,28 @@
       "l",
       "e"
     ],
-    "word": "Vegetable"
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "whispers"
   },
   {
     "previousGuesses": [
       "e"
     ],
-    "actualGuess": "e",
+    "actualGuess": "a",
     "partialWordPattern": [
       "_",
       "_",
@@ -1988,7 +1727,7 @@
       "e",
       "a"
     ],
-    "actualGuess": "a",
+    "actualGuess": "i",
     "partialWordPattern": [
       "_",
       "_",
@@ -2007,7 +1746,7 @@
       "i",
       "a"
     ],
-    "actualGuess": "i",
+    "actualGuess": "o",
     "partialWordPattern": [
       "_",
       "_",
@@ -2027,7 +1766,7 @@
       "a",
       "o"
     ],
-    "actualGuess": "o",
+    "actualGuess": "t",
     "partialWordPattern": [
       "_",
       "_",
@@ -2048,7 +1787,7 @@
       "o",
       "t"
     ],
-    "actualGuess": "t",
+    "actualGuess": "s",
     "partialWordPattern": [
       "_",
       "_",
@@ -2070,7 +1809,7 @@
       "o",
       "t"
     ],
-    "actualGuess": "s",
+    "actualGuess": "n",
     "partialWordPattern": [
       "_",
       "_",
@@ -2093,30 +1832,6 @@
       "t",
       "n"
     ],
-    "actualGuess": "n",
-    "partialWordPattern": [
-      "_",
-      "_",
-      "i",
-      "s",
-      "_",
-      "e",
-      "_",
-      "s"
-    ],
-    "word": "whispers"
-  },
-  {
-    "previousGuesses": [
-      "e",
-      "i",
-      "s",
-      "a",
-      "o",
-      "t",
-      "n",
-      "l"
-    ],
     "actualGuess": "l",
     "partialWordPattern": [
       "_",
@@ -2139,8 +1854,7 @@
       "o",
       "t",
       "n",
-      "l",
-      "b"
+      "l"
     ],
     "actualGuess": "b",
     "partialWordPattern": [
@@ -2160,7 +1874,6 @@
       "e",
       "i",
       "s",
-      "w",
       "a",
       "o",
       "t",
@@ -2170,7 +1883,7 @@
     ],
     "actualGuess": "w",
     "partialWordPattern": [
-      "w",
+      "_",
       "_",
       "i",
       "s",
@@ -2187,7 +1900,6 @@
       "i",
       "s",
       "w",
-      "h",
       "a",
       "o",
       "t",
@@ -2198,7 +1910,7 @@
     "actualGuess": "h",
     "partialWordPattern": [
       "w",
-      "h",
+      "_",
       "i",
       "s",
       "_",
@@ -2215,7 +1927,6 @@
       "s",
       "w",
       "h",
-      "p",
       "a",
       "o",
       "t",
@@ -2229,7 +1940,7 @@
       "h",
       "i",
       "s",
-      "p",
+      "_",
       "e",
       "_",
       "s"
@@ -2244,7 +1955,6 @@
       "w",
       "h",
       "p",
-      "r",
       "a",
       "o",
       "t",
@@ -2260,33 +1970,30 @@
       "s",
       "p",
       "e",
-      "r",
+      "_",
       "s"
     ],
     "word": "whispers"
   },
   {
-    "previousGuesses": [
-      "e"
-    ],
+    "previousGuesses": [],
     "actualGuess": "e",
     "partialWordPattern": [
       "_",
       "_",
       "_",
       "_",
-      "e",
+      "_",
       "_",
       "_",
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
-      "e",
-      "t"
+      "e"
     ],
     "actualGuess": "t",
     "partialWordPattern": [
@@ -2300,13 +2007,12 @@
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
       "e",
-      "t",
-      "a"
+      "t"
     ],
     "actualGuess": "a",
     "partialWordPattern": [
@@ -2320,19 +2026,18 @@
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
       "e",
-      "o",
       "t",
       "a"
     ],
     "actualGuess": "o",
     "partialWordPattern": [
       "_",
-      "o",
+      "_",
       "_",
       "_",
       "e",
@@ -2341,15 +2046,14 @@
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
       "e",
       "o",
       "t",
-      "a",
-      "i"
+      "a"
     ],
     "actualGuess": "i",
     "partialWordPattern": [
@@ -2363,13 +2067,12 @@
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
       "e",
       "o",
-      "n",
       "t",
       "a",
       "i"
@@ -2378,7 +2081,7 @@
     "partialWordPattern": [
       "_",
       "o",
-      "n",
+      "_",
       "_",
       "e",
       "_",
@@ -2386,14 +2089,13 @@
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
       "e",
       "o",
       "n",
-      "r",
       "t",
       "a",
       "i"
@@ -2405,12 +2107,12 @@
       "n",
       "_",
       "e",
-      "r",
+      "_",
       "_",
       "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
@@ -2418,7 +2120,6 @@
       "o",
       "n",
       "r",
-      "u",
       "t",
       "a",
       "i"
@@ -2432,10 +2133,10 @@
       "e",
       "r",
       "_",
-      "u",
+      "_",
       "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
@@ -2444,7 +2145,6 @@
       "n",
       "r",
       "u",
-      "l",
       "t",
       "a",
       "i"
@@ -2459,9 +2159,9 @@
       "r",
       "_",
       "u",
-      "l"
+      "_"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
@@ -2471,7 +2171,6 @@
       "r",
       "u",
       "l",
-      "d",
       "t",
       "a",
       "i"
@@ -2481,14 +2180,14 @@
       "_",
       "o",
       "n",
-      "d",
+      "_",
       "e",
       "r",
       "_",
       "u",
       "l"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
@@ -2499,7 +2198,6 @@
       "u",
       "l",
       "d",
-      "f",
       "t",
       "a",
       "i"
@@ -2512,11 +2210,11 @@
       "d",
       "e",
       "r",
-      "f",
+      "_",
       "u",
       "l"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   },
   {
     "previousGuesses": [
@@ -2530,8 +2228,7 @@
       "f",
       "t",
       "a",
-      "i",
-      "w"
+      "i"
     ],
     "actualGuess": "w",
     "partialWordPattern": [
@@ -2545,6 +2242,6 @@
       "u",
       "l"
     ],
-    "word": "Wonderful"
+    "word": "wonderful"
   }
 ]

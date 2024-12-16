@@ -1,4 +1,102 @@
-// model3.wppl
+// // model3.wppl
+
+// var letterFrequencies = json.read('letter_freq.json');
+// var wordFreq = json.read('word_freq.json');
+// var dictionary = Object.keys(wordFreq);
+
+// var simpleModel = function() {
+  
+//   var alphas = dirichlet(Vector([1, 1, 1, 1]));
+
+//   mapData({data: data}, function(game) {
+//     console.log(game);
+
+//     var allLetters = Object.keys(letterFrequencies);
+//     var availableLetters = filter(function(l) { 
+//       return game.previousGuesses.indexOf(l) === -1; 
+//     }, allLetters);
+
+//     // Compute likelihood for each model
+//     var modelLikelihoods = map(function(modelChoice) {
+//       if (modelChoice === 1) {
+//         var uniformProb = 1 / availableLetters.length;
+//         var uniformPs = repeat(availableLetters.length, function() { return uniformProb; });
+//         return Categorical({vs: availableLetters, ps: uniformPs});
+//       } else if (modelChoice === 2) {
+//         var freqs = map(function(l) { return letterFrequencies[l]; }, availableLetters);
+//         var freqSum = sum(freqs);
+//         var probs = map(function(x) { return x / freqSum; }, freqs);
+//         return Categorical({vs: availableLetters, ps: probs});
+//       } else if (modelChoice === 3 || modelChoice === 4) {
+//         var correctGuesses = filter(function(g) { return game.word.indexOf(g) > -1; }, game.previousGuesses);
+//         var incorrectGuesses = filter(function(g) { return game.word.indexOf(g) === -1; }, game.previousGuesses);
+//         var pattern = {
+//           partial: game.partialWordPattern,
+//           in: correctGuesses,
+//           not_in: incorrectGuesses
+//         };
+//         var letterProbsObj = webpplPackageTemplate.letter_inference(pattern, modelChoice === 4); 
+//         var possibleLetters = Object.keys(letterProbsObj);
+//         var filteredLetters = filter(function(l) { return letterProbsObj[l] > 0; }, possibleLetters);
+//         var letterPs = map(function(l) { return letterProbsObj[l]; }, filteredLetters);
+
+//         var pSum = sum(letterPs);
+//         var normLetterPs = map(function(p) { return p / pSum; }, letterPs);
+//         return Categorical({vs: filteredLetters, ps: normLetterPs});
+//       }
+//     }, [1, 2, 3, 4]); // Evaluate likelihoods for models 1, 2, 3, and 4
+
+//     // Mixture likelihood
+//     var combinedLikelihood = Mixture({
+//       dists: modelLikelihoods,
+//       ps: alphas
+//     });
+
+//     observe(combinedLikelihood, game.actualGuess); // Observe the guess under the mixture model
+//   });
+
+//   console.log
+//   return alphas; // Return inferred alpha values
+// };
+
+// var partial = ["_", "o", "_", "_", "e", "_", "_", "_", "_"];
+// var in_letters = ["o", "e"];
+// var not_in_letters = ["s"];
+// var previousGuesses = in_letters.concat(not_in_letters);
+
+// // var data = [
+// //   {
+// //     previousGuesses: previousGuesses,
+// //     actualGuess: "l",
+// //     partialWordPattern: partial,
+// //     word: "wonderful"
+// //   },
+// // ];
+
+// // Import data from 'data.js'
+// var data = json.read('data.js');
+
+// var x = webpplPackageTemplate.letter_inference(
+//   { partial: partial, in: in_letters, not_in: not_in_letters },
+//   false
+// );
+// // console.log(x);
+
+// var posterior = Infer({
+//   method: 'MCMC',
+//   samples: 100,
+//   model: simpleModel
+// });
+
+// // Extract the inferred alpha values
+// var alphas = expectation(posterior, function(x) { return x; });
+
+// console.log({
+//   random_guess_model: alphas[0],
+//   letter_freq_model: alphas[1],
+//   dict_model: alphas[2],
+//   bayesian_model: alphas[3],
+// });
 
 
 
@@ -9,9 +107,24 @@ var dictionary = Object.keys(wordFreq);
 
 var simpleModel = function() {
   // Just try to learn weights between frequency and random
-  var modelChoice = sample(Categorical({ps: [0.25, 0.25, 0.25, 0.25], vs: [1, 2, 3, 4]}));
+  var unnormalizedWeights = [sample(Gamma({shape: 1, scale: 1})), 
+    sample(Gamma({shape: 1, scale: 1})), 
+    sample(Gamma({shape: 1, scale: 1})), 
+    sample(Gamma({shape: 1, scale: 1}))];
+
+  // Normalize weights to sum to 1
+  var weightSum = sum(unnormalizedWeights);
+  var modelProbs = map(function(w) { return w / weightSum; }, unnormalizedWeights);
+
 
   mapData({data: data}, function(game) {
+    console.log(game.word);
+
+    var modelChoice = sample(Categorical({ps: modelProbs, vs: [1, 2, 3, 4]}));
+    // modelChoice = sample(Categorical({ps: [0.25, 0.25, 0.25, 0.25], vs: [1, 2, 3, 4]}));
+
+    // modelProbs[modelChoice - 1] += 1;
+
     var allLetters = Object.keys(letterFrequencies);
     var availableLetters = filter(function(l){ 
       return game.previousGuesses.indexOf(l) === -1; 
@@ -48,6 +161,7 @@ var simpleModel = function() {
 
       observe(Categorical({vs: filteredLetters, ps: normLetterPs}), game.actualGuess);
     } else if (modelChoice === 4) {
+
       var correctGuesses = filter(function(g){return game.word.indexOf(g) > -1;}, game.previousGuesses);
       var incorrectGuesses = filter(function(g){return game.word.indexOf(g) === -1;}, game.previousGuesses);
       var pattern = {
@@ -70,13 +184,19 @@ var simpleModel = function() {
 
   });
 
-  return modelChoice;
+  // console.log(modelProbs);
+  return modelProbs;
+  
 };
 
 
-var partial = ["_", "o", "_", "_", "e", "_", "_", "_", "_"]
-var in_letters = ["o", "e"]
-var not_in_letters = ["s"]
+var partial = [
+    '_', 'o', 'n',
+    'd', 'e', 'r',
+    'f', 'u', 'l'
+  ]
+var in_letters = ["o", "e", "n", "d", "r", "f", "u", "l"]
+var not_in_letters = ["i"]
 var previousGuesses = in_letters.concat(not_in_letters)
 
 // var data = [
@@ -88,31 +208,29 @@ var previousGuesses = in_letters.concat(not_in_letters)
 //   },
 // ]
 
-//import data from 'data.js'
+// import data from 'data.js'
 var data = json.read('data.js');
 
 
 var x = webpplPackageTemplate.letter_inference({ partial: partial, in: in_letters, not_in: not_in_letters }, false)
-console.log(x)
+// console.log(x)
 
 var posterior = Infer({
   method: 'MCMC',
-  samples: 10000,
+  samples: 1000,
   model: simpleModel
 })
 
+console.log(posterior)
+var probModel1 = expectation(posterior, function(x) { return x[0]; });
+var probModel2 = expectation(posterior, function(x) { return x[1]; });
+var probModel3 = expectation(posterior, function(x) { return x[2]; });
+var probModel4 = expectation(posterior, function(x) { return x[3]; });
 
-var probModel1 = expectation(posterior, function(x) { return x === 1 ? 1 : 0 });
-var probModel2 = expectation(posterior, function(x) { return x === 2 ? 1 : 0 });
-var probModel3 = expectation(posterior, function(x) { return x === 3 ? 1 : 0 });
-var probModel4 = expectation(posterior, function(x) { return x === 4 ? 1 : 0 });
-
-
-
-console.log({
+var bla = {
   random_guess_model: probModel1,
   letter_freq_model: probModel2,
   dict_model: probModel3, 
   bayesian_model: probModel4, 
-});
-    
+}
+bla
