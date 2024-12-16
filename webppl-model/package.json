@@ -1,15 +1,22 @@
 {
   "name": "webppl-package-template",
   "version": "0.0.1",
-  "description": "WebPPL library for ...",  
+  "description": "WebPPL library for ...",
   "webppl": {
-    "wppl": ["src/library.wppl"],
-    "headers": ["src/header.js"]
+    "wppl": [
+      "src/library.wppl"
+    ],
+    "headers": [
+      "src/header.js"
+    ]
   },
   "main": "src/library.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/probmods/webppl-package-template.git"
   },
-  "homepage": "https://github.com/probmods/webppl-package-template"
+  "homepage": "https://github.com/probmods/webppl-package-template",
+  "dependencies": {
+    "webppl-json": "^0.0.1"
+  }
 }

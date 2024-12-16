@@ -202,14 +202,14 @@ var in_letters = ["o", "e", "n", "d", "r", "f", "u", "l"]
 var not_in_letters = ["i"]
 var previousGuesses = in_letters.concat(not_in_letters)
 
-var data = [
-  {
-    previousGuesses: previousGuesses,
-    actualGuess: "o",
-    partialWordPattern: partial,
-    word: "spotlight"
-  },
-]
+// var data = [
+//   {
+//     previousGuesses: previousGuesses,
+//     actualGuess: "o",
+//     partialWordPattern: partial,
+//     word: ""
+//   },
+// ]
 
 // import data from 'data.js'
 var data = json.read('data_steps/step_12.json');
