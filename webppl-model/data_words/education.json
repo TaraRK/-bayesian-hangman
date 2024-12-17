@@ -1,0 +1,330 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "o",
+      "_"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "s"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "s"
+    ],
+    "actualGuess": "x",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "s",
+      "x"
+    ],
+    "actualGuess": "m",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "s",
+      "x",
+      "m"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "s",
+      "x",
+      "m",
+      "r"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "u",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "u",
+      "_",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "u",
+      "c",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "u",
+      "c",
+      "a",
+      "_",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "a",
+      "d",
+      "u",
+      "c",
+      "t",
+      "s",
+      "x",
+      "m",
+      "r",
+      "l"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "e",
+      "d",
+      "u",
+      "c",
+      "a",
+      "t",
+      "_",
+      "o",
+      "n"
+    ],
+    "word": "education"
+  }
+]

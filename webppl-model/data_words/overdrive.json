@@ -1,0 +1,190 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "t",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "t",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "r",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "r",
+      "_",
+      "r",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "r",
+      "d",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "v",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "r",
+      "d",
+      "r",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  }
+]

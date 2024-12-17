@@ -1,0 +1,271 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "r"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "e",
+      "a",
+      "r"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "s",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "e",
+      "a",
+      "r"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "s",
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "s",
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "_",
+      "t",
+      "l",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "o",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "o",
+      "t",
+      "l",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "o",
+      "i",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "g",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "o",
+      "t",
+      "l",
+      "i",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  },
+  {
+    "previousGuesses": [
+      "s",
+      "t",
+      "p",
+      "l",
+      "o",
+      "i",
+      "g",
+      "e",
+      "a",
+      "r",
+      "n"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "s",
+      "p",
+      "o",
+      "t",
+      "l",
+      "i",
+      "g",
+      "_",
+      "t"
+    ],
+    "word": "spotlight"
+  }
+]

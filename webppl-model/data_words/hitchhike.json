@@ -1,0 +1,243 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "o"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o",
+      "n"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o",
+      "n",
+      "s"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o",
+      "n",
+      "s",
+      "u"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "h",
+      "a",
+      "o",
+      "n",
+      "s",
+      "u"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "h",
+      "i",
+      "t",
+      "_",
+      "h",
+      "h",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "h",
+      "c",
+      "a",
+      "o",
+      "n",
+      "s",
+      "u"
+    ],
+    "actualGuess": "k",
+    "partialWordPattern": [
+      "h",
+      "i",
+      "t",
+      "c",
+      "h",
+      "h",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  }
+]

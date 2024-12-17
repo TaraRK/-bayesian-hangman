@@ -1,0 +1,190 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "a",
+      "i"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "o",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "n",
+      "a",
+      "i"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "o",
+      "n",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "n",
+      "h",
+      "a",
+      "i"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "h",
+      "o",
+      "n",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "n",
+      "h",
+      "l",
+      "a",
+      "i"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "l",
+      "e",
+      "_",
+      "h",
+      "o",
+      "n",
+      "e"
+    ],
+    "word": "telephone"
+  }
+]

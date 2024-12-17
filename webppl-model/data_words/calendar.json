@@ -1,0 +1,232 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "t"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "_",
+      "e",
+      "_",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "t"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "_",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "t"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "t",
+      "i"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "t",
+      "i",
+      "o"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "t",
+      "i",
+      "o",
+      "s"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "_"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "r",
+      "t",
+      "i",
+      "o",
+      "s"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "_",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "r"
+    ],
+    "word": "calendar"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "n",
+      "r",
+      "c",
+      "t",
+      "i",
+      "o",
+      "s"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "c",
+      "a",
+      "l",
+      "e",
+      "n",
+      "_",
+      "a",
+      "r"
+    ],
+    "word": "calendar"
+  }
+]

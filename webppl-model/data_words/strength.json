@@ -1,0 +1,157 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "_",
+      "e",
+      "_",
+      "_",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "_",
+      "e",
+      "_",
+      "_",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "r",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "r",
+      "e",
+      "_",
+      "_",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "r",
+      "a",
+      "i"
+    ],
+    "actualGuess": "g",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "r",
+      "e",
+      "_",
+      "_",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "r",
+      "g",
+      "a",
+      "i"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "r",
+      "e",
+      "_",
+      "g",
+      "t",
+      "_"
+    ],
+    "word": "strength"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "r",
+      "g",
+      "h",
+      "a",
+      "i"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "t",
+      "r",
+      "e",
+      "_",
+      "g",
+      "t",
+      "h"
+    ],
+    "word": "strength"
+  }
+]

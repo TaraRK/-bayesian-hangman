@@ -1,0 +1,165 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "d"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "d"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "a",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "d"
+    ],
+    "actualGuess": "b",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "a",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "b",
+      "d"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "b",
+      "d",
+      "n"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "word": "vegetable"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "l",
+      "b",
+      "t",
+      "d",
+      "n"
+    ],
+    "actualGuess": "g",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "t",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "word": "vegetable"
+  }
+]

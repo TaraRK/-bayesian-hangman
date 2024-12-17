@@ -1,0 +1,393 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "t"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "t",
+      "s"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s",
+      "d"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s",
+      "d",
+      "o"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u"
+    ],
+    "actualGuess": "y",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "n",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "n",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "n",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h",
+      "f"
+    ],
+    "actualGuess": "m",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "n",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "n",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h",
+      "f",
+      "m"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "n",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  }
+]

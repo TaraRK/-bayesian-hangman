@@ -2243,5 +2243,2259 @@
       "l"
     ],
     "word": "wonderful"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "o"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o",
+      "n"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o",
+      "n",
+      "s"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "a",
+      "o",
+      "n",
+      "s",
+      "u"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "t",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "h",
+      "a",
+      "o",
+      "n",
+      "s",
+      "u"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "h",
+      "i",
+      "t",
+      "_",
+      "h",
+      "h",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "i",
+      "h",
+      "c",
+      "a",
+      "o",
+      "n",
+      "s",
+      "u"
+    ],
+    "actualGuess": "k",
+    "partialWordPattern": [
+      "h",
+      "i",
+      "t",
+      "c",
+      "h",
+      "h",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "hitchhike"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i"
+    ],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "e"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "e"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "o",
+      "_",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "n",
+      "e"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "o",
+      "_",
+      "_",
+      "a",
+      "n",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "n",
+      "e",
+      "l"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "o",
+      "_",
+      "_",
+      "a",
+      "n",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "n",
+      "e",
+      "l",
+      "d"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "o",
+      "_",
+      "_",
+      "a",
+      "n",
+      "_"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "n",
+      "t",
+      "e",
+      "l",
+      "d"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "o",
+      "_",
+      "t",
+      "a",
+      "n",
+      "t"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "n",
+      "t",
+      "r",
+      "e",
+      "l",
+      "d"
+    ],
+    "actualGuess": "m",
+    "partialWordPattern": [
+      "i",
+      "_",
+      "_",
+      "o",
+      "r",
+      "t",
+      "a",
+      "n",
+      "t"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "a",
+      "o",
+      "n",
+      "t",
+      "r",
+      "m",
+      "e",
+      "l",
+      "d"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "i",
+      "m",
+      "_",
+      "o",
+      "r",
+      "t",
+      "a",
+      "n",
+      "t"
+    ],
+    "word": "important"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "e"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "e"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "e",
+      "r"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "e",
+      "r",
+      "o"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "e",
+      "r",
+      "o"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "h",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "_",
+      "h",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "h",
+      "l",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "g",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "_",
+      "h",
+      "t",
+      "_",
+      "a",
+      "l",
+      "l"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "h",
+      "l",
+      "g",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "g",
+      "h",
+      "t",
+      "_",
+      "a",
+      "l",
+      "l"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "t",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "t",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "r",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "r",
+      "_",
+      "r",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "i",
+      "r",
+      "d",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "v",
+    "partialWordPattern": [
+      "o",
+      "_",
+      "e",
+      "r",
+      "d",
+      "r",
+      "i",
+      "_",
+      "e"
+    ],
+    "word": "overdrive"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "t",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "_",
+      "t",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n",
+      "r"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t",
+      "_",
+      "r",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n",
+      "r",
+      "u"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n",
+      "r",
+      "u",
+      "d"
+    ],
+    "actualGuess": "v",
+    "partialWordPattern": [
+      "a",
+      "d",
+      "_",
+      "e",
+      "n",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "t"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "t",
+      "s"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s",
+      "d"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s",
+      "d",
+      "o"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u"
+    ],
+    "actualGuess": "y",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "n",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "n",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "n",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h",
+      "f"
+    ],
+    "actualGuess": "m",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "n",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "a",
+      "i",
+      "l",
+      "n",
+      "t",
+      "s",
+      "d",
+      "o",
+      "r",
+      "u",
+      "y",
+      "h",
+      "f",
+      "m"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "n",
+      "e",
+      "a",
+      "_",
+      "_",
+      "l",
+      "e"
+    ],
+    "word": "pineapple"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "s"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "s",
+      "h"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "n",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "n",
+      "d",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "d",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "n",
+      "d",
+      "f",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "d",
+      "i",
+      "f",
+      "f",
+      "e",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "a",
+      "i"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "o",
+      "_",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "n",
+      "a",
+      "i"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "o",
+      "n",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "n",
+      "h",
+      "a",
+      "i"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "_",
+      "e",
+      "_",
+      "h",
+      "o",
+      "n",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "o",
+      "n",
+      "h",
+      "l",
+      "a",
+      "i"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "t",
+      "e",
+      "l",
+      "e",
+      "_",
+      "h",
+      "o",
+      "n",
+      "e"
+    ],
+    "word": "telephone"
+  },
+  {
+    "previousGuesses": [],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "o"
+    ],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "i",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "o"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "o",
+      "a"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "o",
+      "a",
+      "u"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "o",
+      "a",
+      "u"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "_",
+      "_",
+      "r",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "o",
+      "a",
+      "u"
+    ],
+    "actualGuess": "y",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "_",
+      "t",
+      "r",
+      "_"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "o",
+      "a",
+      "u"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "_",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "s",
+      "o",
+      "a",
+      "u"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "s",
+      "o",
+      "a",
+      "u",
+      "n"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "s",
+      "o",
+      "a",
+      "u",
+      "n",
+      "p"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "s",
+      "o",
+      "a",
+      "u",
+      "n",
+      "p",
+      "l"
+    ],
+    "actualGuess": "m",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "_",
+      "i",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "s",
+      "m",
+      "o",
+      "a",
+      "u",
+      "n",
+      "p",
+      "l"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "e",
+      "m",
+      "i",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
+  },
+  {
+    "previousGuesses": [
+      "i",
+      "e",
+      "r",
+      "t",
+      "y",
+      "s",
+      "m",
+      "c",
+      "o",
+      "a",
+      "u",
+      "n",
+      "p",
+      "l"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "c",
+      "_",
+      "e",
+      "m",
+      "i",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "word": "chemistry"
   }
 ]

@@ -1,0 +1,216 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "s",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "s"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "s",
+      "h"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "_",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "n",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "n",
+      "d",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "d",
+      "i",
+      "_",
+      "_",
+      "e",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "different"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "i",
+      "t",
+      "n",
+      "d",
+      "f",
+      "s",
+      "h",
+      "a"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "d",
+      "i",
+      "f",
+      "f",
+      "e",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "different"
+  }
+]

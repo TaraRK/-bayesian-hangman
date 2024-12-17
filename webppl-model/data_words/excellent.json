@@ -1,0 +1,118 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "e",
+      "_",
+      "t"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "n"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "n",
+      "l"
+    ],
+    "actualGuess": "c",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "_",
+      "e",
+      "l",
+      "l",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "excellent"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "n",
+      "l",
+      "c"
+    ],
+    "actualGuess": "x",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "c",
+      "e",
+      "l",
+      "l",
+      "e",
+      "n",
+      "t"
+    ],
+    "word": "excellent"
+  }
+]

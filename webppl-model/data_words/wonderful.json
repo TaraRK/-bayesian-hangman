@@ -1,0 +1,271 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "t",
+      "a"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "_",
+      "e",
+      "r",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "_",
+      "e",
+      "r",
+      "_",
+      "u",
+      "_"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "l",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "_",
+      "e",
+      "r",
+      "_",
+      "u",
+      "l"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "l",
+      "d",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "d",
+      "e",
+      "r",
+      "_",
+      "u",
+      "l"
+    ],
+    "word": "wonderful"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "o",
+      "n",
+      "r",
+      "u",
+      "l",
+      "d",
+      "f",
+      "t",
+      "a",
+      "i"
+    ],
+    "actualGuess": "w",
+    "partialWordPattern": [
+      "_",
+      "o",
+      "n",
+      "d",
+      "e",
+      "r",
+      "f",
+      "u",
+      "l"
+    ],
+    "word": "wonderful"
+  }
+]

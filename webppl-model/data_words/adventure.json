@@ -1,0 +1,165 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "t",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "_",
+      "t",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t",
+      "_",
+      "_",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n",
+      "r"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t",
+      "_",
+      "r",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n",
+      "r",
+      "u"
+    ],
+    "actualGuess": "d",
+    "partialWordPattern": [
+      "a",
+      "_",
+      "_",
+      "e",
+      "n",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "word": "adventure"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "a",
+      "n",
+      "r",
+      "u",
+      "d"
+    ],
+    "actualGuess": "v",
+    "partialWordPattern": [
+      "a",
+      "d",
+      "_",
+      "e",
+      "n",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "word": "adventure"
+  }
+]

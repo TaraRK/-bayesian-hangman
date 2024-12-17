@@ -9,7 +9,6 @@ var word_freq = JSON.parse(fs.readFileSync("word_freq.json", "utf8"));
 var dictionary = Object.keys(word_freq);
 var alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
 
-// Utility: sum function
 function sum(arr) {
     return arr.reduce(function(acc, x){ return acc + x; }, 0);
 }
@@ -46,7 +45,6 @@ function get_likelyhoods(pattern, words, use_word_frequency) {
         use_word_frequency = false;
     }
 
-    // Initialize position-specific letter counts
     var position_letter_counts = {};
     for (var pos = 0; pos < pattern.partial.length; pos++) {
         position_letter_counts[pos] = {};
@@ -55,7 +53,6 @@ function get_likelyhoods(pattern, words, use_word_frequency) {
         }
     }
 
-    // Count letters by position
     for (var wi = 0; wi < words.length; wi++) {
         var w = words[wi];
         var weight = use_word_frequency ? (word_freq[w] || 0) : 1;
@@ -68,20 +65,17 @@ function get_likelyhoods(pattern, words, use_word_frequency) {
         }
     }
 
-    // Calculate position totals and normalize
     var position_probabilities = {};
     for (var pos = 0; pos < pattern.partial.length; pos++) {
         if (pattern.partial[pos] === "_") {
             var pos_total = sum(Object.values(position_letter_counts[pos]));
-            if (pos_total > 0) {  // Avoid division by zero
+            if (pos_total > 0) { 
                 for (var letter of alphabet) {
                     position_letter_counts[pos][letter] /= pos_total;
                 }
             }
         }
     }
-
-    // Average probabilities across positions for each letter
     var final_probabilities = {};
     for (var letter of alphabet) {
         var letter_probs = [];

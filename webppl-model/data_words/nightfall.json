@@ -1,0 +1,271 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "e"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "e"
+    ],
+    "actualGuess": "r",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "e",
+      "r"
+    ],
+    "actualGuess": "o",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "e",
+      "r",
+      "o"
+    ],
+    "actualGuess": "i",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "e",
+      "r",
+      "o"
+    ],
+    "actualGuess": "u",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "_",
+      "i",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "_",
+      "_",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "h",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "_",
+      "h",
+      "t",
+      "_",
+      "a",
+      "_",
+      "_"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "h",
+      "l",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "g",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "_",
+      "h",
+      "t",
+      "_",
+      "a",
+      "l",
+      "l"
+    ],
+    "word": "nightfall"
+  },
+  {
+    "previousGuesses": [
+      "t",
+      "a",
+      "i",
+      "n",
+      "h",
+      "l",
+      "g",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "actualGuess": "f",
+    "partialWordPattern": [
+      "n",
+      "i",
+      "g",
+      "h",
+      "t",
+      "_",
+      "a",
+      "l",
+      "l"
+    ],
+    "word": "nightfall"
+  }
+]

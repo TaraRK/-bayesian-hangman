@@ -1,0 +1,134 @@
+[
+  {
+    "previousGuesses": [],
+    "actualGuess": "e",
+    "partialWordPattern": [
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e"
+    ],
+    "actualGuess": "t",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "_"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t"
+    ],
+    "actualGuess": "l",
+    "partialWordPattern": [
+      "e",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "l"
+    ],
+    "actualGuess": "p",
+    "partialWordPattern": [
+      "e",
+      "l",
+      "e",
+      "_",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "l",
+      "p"
+    ],
+    "actualGuess": "h",
+    "partialWordPattern": [
+      "e",
+      "l",
+      "e",
+      "p",
+      "_",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "l",
+      "p",
+      "h"
+    ],
+    "actualGuess": "a",
+    "partialWordPattern": [
+      "e",
+      "l",
+      "e",
+      "p",
+      "h",
+      "_",
+      "_",
+      "t"
+    ],
+    "word": "elephant"
+  },
+  {
+    "previousGuesses": [
+      "e",
+      "t",
+      "l",
+      "p",
+      "h",
+      "a"
+    ],
+    "actualGuess": "n",
+    "partialWordPattern": [
+      "e",
+      "l",
+      "e",
+      "p",
+      "h",
+      "a",
+      "_",
+      "t"
+    ],
+    "word": "elephant"
+  }
+]
