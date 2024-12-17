@@ -92,14 +92,14 @@ var in_letters = ["o", "e"]
 var not_in_letters = ["s"]
 var previousGuesses = in_letters.concat(not_in_letters)
 
-var data = [
-  {
-    previousGuesses: previousGuesses,
-    actualGuess: "o",
-    partialWordPattern: partial,
-    word: "spotlight"
-  },
-]
+// var data = [
+//   {
+//     previousGuesses: previousGuesses,
+//     actualGuess: "o",
+//     partialWordPattern: partial,
+//     word: ""
+//   },
+// ]
 
 var data = json.read('data_steps/step_12.json');
 
